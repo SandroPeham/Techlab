@@ -1,2 +1,2 @@
 # Techlab
-Used to support the iOS App Techlab for issues.
+Used to support the iOS App Calculator Pro - Linear Algebra for issues.
