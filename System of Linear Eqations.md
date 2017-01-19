@@ -19,3 +19,5 @@ enter the matrix as (A|b):
 and analyse this matrix to:
 
 <img style='margin: 0 auto' src="https://github.com/SandroPeham/Techlab/blob/master/Simulator%20Screen%20Shot%2019%20Jan%202017%2C%2019.47.25.png" width=808 height=512>
+
+where x is the solution of the problem.
